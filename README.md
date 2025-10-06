@@ -118,5 +118,3 @@ class MenuManager
 ---
 
 **Ideal para jogadores de Miracle que querem maximizar seus lucros com produção de runas! 🎯**
-
-*Otimize sua estratégia, maximize seus ganhos!* ✨
