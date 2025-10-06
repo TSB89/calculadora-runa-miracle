@@ -6,7 +6,7 @@ Uma calculadora web interativa e responsiva para otimizar a produção de runas 
 Você pode acessar o projeto de duas formas:
 
 1. **Via GitHub Pages** (mais prático):  
-   👉 [Acesse aqui](https://tsb89.github.io/calculadora-runa-exordion/)  
+   👉 [Acesse aqui](https://tsb89.github.io/calculadora-runa-miracle)  
    
 2. **Localmente no navegador**:
    * Clone o repositório ou baixe os arquivos.
