@@ -578,6 +578,15 @@ h1 {
     border-radius: 2px;
 }
 
+/* Adicionar margem ao container principal */
+body {
+    padding-top: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .top-runes {
