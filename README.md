@@ -34,7 +34,7 @@ Você pode acessar o projeto de duas formas:
 
 ### 📊 Calculadora Completa
 
-* **28 Runas Disponíveis**: Desde Light Magic Missile até Animate Dead
+* **26 Runas Disponíveis**: Desde Light Magic Missile até Animate Dead
 * **Padronização Simplificada**:
    * Todas as runas custam 15gp para criar
    * Todas as runas produzem 1 unidade por conjuração
